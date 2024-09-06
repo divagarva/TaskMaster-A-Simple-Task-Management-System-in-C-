@@ -1,0 +1,3 @@
+/Users/divagarvakeesan/CLionProjects/TaskMaster: A Simple Task Management System in C++/cmake-build-debug/CMakeFiles/TaskMaster__A_Simple_Task_Management_System_in_C__.dir
+/Users/divagarvakeesan/CLionProjects/TaskMaster: A Simple Task Management System in C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/divagarvakeesan/CLionProjects/TaskMaster: A Simple Task Management System in C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
